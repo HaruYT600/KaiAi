@@ -6,16 +6,14 @@ KaiAi is a Discord chatbot that acts like a 16-year-old, created by [@Haruyt600]
 - **Server Interaction**: Ping or reply to Kai to get him to respond in server channels.
 - **DM Conversations**: Kai can chat with you in DMs, but he'll only DM you if you've texted him first.
 - **Admin Commands**: Server admins have special controls:
-  - `@KAI activate`: Activates Kai in a channel, so he replies even when not mentioned.
-  - `@KAI deactivate`: Deactivates Kai in a channel.
-  - `@KAI wack`: Makes Kai change the topic of conversation.
-  - `@KAI reset`: Resets Kai’s memory in the server.
+  - `=start`: Activates Kai in a channel, so he replies even when not mentioned.
+  - `=stop`: Deactivates Kai in a channel.
+  - `=wack`: Makes Kai change the topic of conversation.
 
 ## Extra Capabilities
 - **Image Recognition**: Kai can "see" images shared in the server.
 - **Voice Message Listening**: Kai can listen to and respond to voice messages.
 - **Image Generation**: Kai has the ability to generate images on demand.
-- **Conversation Jumping**: Kai can jump into conversations if he feels like it!
 
 ## How to Use
 - Mention Kai with `@KAI` in a server or reply to one of his messages to start a conversation.
@@ -24,7 +22,7 @@ KaiAi is a Discord chatbot that acts like a 16-year-old, created by [@Haruyt600]
 
 ## Invite Kai to Your Server!
 Want to add Kai to your own Discord server? Click the link below to invite him:
-[Kai's Invite Link](https://discord.com/oauth2/authorize?client_id=1002602578489659483&permissions=67584&scope=bot)
+[Kai's Invite Link](https://discord.com/oauth2/authorize?client_id=1367978533837733888)
 
 ## Support Server
 Need help with Kai or just want to hang out? Join the support server here:
